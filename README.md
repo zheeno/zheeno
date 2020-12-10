@@ -1,3 +1,9 @@
+<div style="padding: 20px;background-color: red">
+
+  <a href="https://github.com/zheeno">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=zheeno&show_icons=true&theme=light&line_height=27" alt="Ukpowe Efezino's github stats"/>
+</a>
+</div>
 ### Hi there 👋
 
 - 🔭 I’m currently working on personal & freelance Projects
@@ -10,9 +16,6 @@
 
 <a href="https://github.com/zheeno">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zheeno&theme=light" />
-  </a>
-  <a href="https://github.com/zheeno">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=zheeno&show_icons=true&theme=light&line_height=27" alt="Ukpowe Efezino's github stats"/>
 </a>
 
 ## Connect with me at
