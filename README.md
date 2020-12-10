@@ -8,7 +8,12 @@
 - 📫 How to reach me: efezinoukpowe@gmail.com
 - ⚡ Fun fact: I enjoy playing Paintball and I love movies
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=zheeno)
+<a href="https://github.com/zheeno">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zheeno&theme=light" />
+  </a>
+  <a href="https://github.com/zheeno">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=zheeno&show_icons=true&theme=light&line_height=27" alt="Ukpowe Efezino's github stats"/>
+</a>
 
 ## Connect with me at
 
