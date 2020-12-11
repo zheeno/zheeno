@@ -15,21 +15,20 @@
 <p align="center">
   <strong>Check out my work below!</strong>
   <br><br>
-
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/zheeno/zheeno?color=black&logo=github" alt="visits">
+    <img src="https://badges.pufler.dev/visits/zheeno/zheeno" alt="visits">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/zheeno?style=flat-square&color=black&logo=github" alt="years">
+    <img src="https://badges.pufler.dev/years/zheeno" alt="years">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/zheeno?style=flat-square&color=black&logo=github" alt="repos">
+    <img src="https://badges.pufler.dev/repos/zheeno" alt="repos">
   </a>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/updated/zheeno" alt="updated">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/monthly/zheeno?style=flat-square&color=black&logo=github" alt="commits">
+    <img src="https://badges.pufler.dev/commits/monthly/zheeno" alt="commits">
   </a>
 </p>
 
