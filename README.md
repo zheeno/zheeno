@@ -17,7 +17,7 @@
   <br><br>
 
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/zheeno/zheeno?style=flat-square&color=black&logo=github" alt="visits">
+    <img src="https://badges.pufler.dev/visits/zheeno/zheeno?color=black&logo=github" alt="visits">
   </a>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/years/zheeno?style=flat-square&color=black&logo=github" alt="years">
