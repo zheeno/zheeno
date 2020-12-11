@@ -25,9 +25,6 @@
     <img src="https://badges.pufler.dev/repos/zheeno" alt="repos">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/updated/zheeno" alt="updated">
-  </a>
-  <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/commits/monthly/zheeno" alt="commits">
   </a>
 </p>
