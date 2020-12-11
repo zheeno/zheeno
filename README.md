@@ -13,7 +13,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zheeno&theme=dark)
   
 <p align="center">
-  <strong>Check out my work below!</strong>
+  <strong>Some more stats</strong>
   <br><br>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/zheeno/zheeno" alt="visits">
