@@ -17,19 +17,19 @@
   <br><br>
 
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/zheeno/zheeno?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/zheeno/zheeno?style=flat-square&color=black&logo=github" alt="visits">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/zheeno?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/years/zheeno?style=flat-square&color=black&logo=github" alt="years">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/zheeno?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/zheeno?style=flat-square&color=black&logo=github" alt="repos">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/gists/zheeno?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/gists/zheeno?style=flat-square&color=black&logo=github" alt="gists">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/zheeno/zheeno?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/commits/monthly/zheeno?style=flat-square&color=black&logo=github" alt="commits">
   </a>
 </p>
 
