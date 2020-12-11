@@ -11,13 +11,6 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=zheeno&theme=dark)
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zheeno&theme=dark)
-
-
-  ![](https://badges.pufler.dev/visits/zheeno/zheeno?style=flat-square&color=black&logo=github)
-  ![](https://badges.pufler.dev/years/zheeno?style=flat-square&color=black&logo=github)
-  ![](https://badges.pufler.dev/repos/zheeno?style=flat-square&color=black&logo=github)
-  ![](https://badges.pufler.dev/gists/zheeno?style=flat-square&color=black&logo=github)
-  ![](https://badges.pufler.dev/commits/zheeno/zheeno?style=flat-square&color=black&logo=github)
   
 <p align="center">
   <strong>Check out my work below!</strong>
@@ -36,7 +29,7 @@
     <img src="https://badges.pufler.dev/gists/zheeno?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/zheeno/puf17640?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/commits/zheeno/zheeno?style=flat-square&color=black&logo=github">
   </a>
 </p>
 
