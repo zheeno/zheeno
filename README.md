@@ -26,7 +26,7 @@
     <img src="https://badges.pufler.dev/repos/zheeno?style=flat-square&color=black&logo=github" alt="repos">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/gists/zheeno" alt="gists">
+    <img src="https://badges.pufler.dev/updated/zheeno" alt="updated">
   </a>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/commits/monthly/zheeno?style=flat-square&color=black&logo=github" alt="commits">
