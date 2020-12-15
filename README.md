@@ -13,7 +13,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zheeno&theme=dark)
   
 <p align="center">
-  <img src="https://mega.nz/file/cdhCzIyT#G45QCWc3z6CDDCKngaiJ5-wgj3eR0zzm5JfufqrNaKI"/>
+  <img src="https://drive.google.com/file/d/1xmYUuL5zVysW7ZhF0zgjh8TWXikI117r/view?usp=sharing"/>
   <br>
   <strong>Some more stats</strong>
   <br><br>
