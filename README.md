@@ -13,7 +13,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zheeno&theme=dark)
   
 <p align="center">
-  <img src="https://efezino.com/static/media/myAvatar_4.8501710c.png" style="width: 100px; border-radius: 50%" />
+  <img src="https://efezino.com/static/media/myAvatar_4.8501710c.png" style="width: 100px; height: 100px; border-radius: 50%" />
   <strong>Some more stats</strong>
   <br><br>
   <a href="https://badges.pufler.dev">
