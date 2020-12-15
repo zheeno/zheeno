@@ -13,7 +13,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zheeno&theme=dark)
   
 <p align="center">
-  <img src="https://drive.google.com/file/d/1xmYUuL5zVysW7ZhF0zgjh8TWXikI117r/view?usp=sharing"/>
+  <a href="https://efezino.com/"><img src="https://i.ibb.co/Xxdm1vn/my-Avatar-4-8501710c.png" alt="my-Avatar-4-8501710c" border="0"></a>
   <br>
   <strong>Some more stats</strong>
   <br><br>
