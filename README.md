@@ -28,6 +28,7 @@
     <img src="https://badges.pufler.dev/commits/monthly/zheeno" alt="commits">
   </a>
 </p>
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 ## Connect with me at
 
