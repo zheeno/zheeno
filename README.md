@@ -33,8 +33,8 @@
 
 ## Connect with me at
 <div align="center">
-<a href="https://www.instagram.com/zheeno_rocks/"><img src="https://i.ibb.co/qMnvLgJ/Pngtree-instagram-social-media-icon-design-3654775.png" alt="Pngtree-instagram-social-media-icon-design-3654775" border="0"></a>
-  </a>
+<a href="https://www.instagram.com/zheeno_rocks/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+  </div>
 - [Twitter](https://www.twitter.com/zheeno_rocks)
 - [LinkedIn](https://www.linkedin.com/in/efezino-ukpowe)
 - [Github](https://github.com/zheeno)
