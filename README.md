@@ -30,13 +30,12 @@
     <img src="https://badges.pufler.dev/commits/monthly/zheeno" alt="commits">
   </a>
 </p>
-
-## Connect with me at
+<hr />
 <div align="center">
   <a target="_blank" href="https://www.facebook.com/ukpowe/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
   <a target="_blank" href="https://www.instagram.com/zheeno_rocks/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
   <a target="_blank" href="https://www.twitter.com/zheeno_rocks/"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png"/></a>
-  <a target="_blank" href="https://www.linkedin.com/in/efezino-ukpowe"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/efezino-ukpowe"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/></a>
   <a target="_blank" href="https://www.github.com/zheeno/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-  <a target="_blank" href="https://efezino.com"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+  <a target="_blank" href="https://efezino.com"><img src="https://img.icons8.com/color/48/000000/web-design.png"/></a>
 </div>
