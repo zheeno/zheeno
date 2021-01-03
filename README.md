@@ -38,4 +38,5 @@
   <a target="_blank" href="https://www.linkedin.com/in/efezino-ukpowe"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/></a>
   <a target="_blank" href="https://www.github.com/zheeno/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
   <a target="_blank" href="https://efezino.com"><img src="https://img.icons8.com/color/48/000000/web-design.png"/></a>
+  <a target=“_blank” href=“https://zheeno.medium.com”><img src="https://img.icons8.com/color/48/000000/medium-monogram.png"/></a>
 </div>
